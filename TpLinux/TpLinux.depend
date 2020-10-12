@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1602472269 source:/home/mariano/Escritorio/algoritmos/TpLinux/Entidades/Provincia.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	"Provincia.h"
+	"../Listas/Lista.h"
+	<stdlib.h>
+
+1602471531 /home/mariano/Escritorio/algoritmos/TpLinux/Entidades/Provincia.h
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"../Listas/Lista.h"
+
+1602471985 /home/mariano/Escritorio/algoritmos/TpLinux/Listas/Lista.h
+
+1602471591 source:/home/mariano/Escritorio/algoritmos/TpLinux/Entidades/Sucursal.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<string>
+	"Sucursal.h"
+	"../Listas/Lista.h"
+	<stdlib.h>
+
+1602471547 /home/mariano/Escritorio/algoritmos/TpLinux/Entidades/Sucursal.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"../Listas/Lista.h"
+
+1602471705 source:/home/mariano/Escritorio/algoritmos/TpLinux/Listas/Listas.cpp
+	"Lista.h"
+	<iostream>
+	<iomanip>
+	"../Entidades/Sucursal.h"
+	"../Entidades/Provincia.h"
+
+1602471805 source:/home/mariano/Escritorio/algoritmos/TpLinux/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Entidades/Sucursal.h"
+	"Entidades/Provincia.h"
+	"Listas/Lista.h"
+	"Entidades/Interfaz.h"
+
+1602471512 /home/mariano/Escritorio/algoritmos/TpLinux/Entidades/Interfaz.h
+
+1602471999 source:/home/mariano/Escritorio/algoritmos/TpLinux/Interfaz.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Entidades/Sucursal.h"
+	"Entidades/Provincia.h"
+	"Listas/Lista.h"
+	"Nucleo.cpp"
+	"Entidades/Interfaz.h"
+
+1602471774 /home/mariano/Escritorio/algoritmos/TpLinux/Nucleo.cpp
+	"Entidades/Sucursal.h"
+	"Entidades/Provincia.h"
+	"Listas/Lista.h"
+
